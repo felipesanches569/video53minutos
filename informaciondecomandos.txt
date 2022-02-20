@@ -23,3 +23,24 @@ Autor: Caronte Web Studio
 */
 # Aquí puedes escribir tu comentario en lenguaje python
 print "Texto que imprime la sentencia print" # Aquí escribimos el comentario
+
+metodo de trabajo de jsx el cual mescla html y js
+    <div className="App">
+      <header className="App-header">
+        <img src={logo} className="App-logo" alt="logo" />
+        <p>
+          Curso de reate con hola mundo JUAN.
+        </p>
+        <a
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Learn React
+        </a>
+      </header>
+    </div>
+
+datos sobre el estrilo jsx 
+al utilizar la javes {} no se deben utilizar los ; no son necesarios
