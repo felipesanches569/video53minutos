@@ -1,3 +1,4 @@
+// desde esta carpeta de carga e importa lo principal de react
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
