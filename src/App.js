@@ -1,7 +1,13 @@
 //componentes del metodo de trabajo jsx
 import logo from './assets/images/logo.svg';
 import './assets/css/App.css';
-import PaginaJuros from './components/PaginaJuros';
+
+//importar componentes
+import micomponente from './components/micomponente';
+
+
+
+
 function App() {
   return (
     <div className="App">
@@ -21,6 +27,7 @@ function App() {
         
       </header>
     </div>
+    
   );
 }
 
