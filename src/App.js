@@ -1,11 +1,10 @@
 //componentes del metodo de trabajo jsx
 import logo from './assets/images/logo.svg';
 import './assets/css/App.css';
+import  React from 'react';
 
 //importar componentes
-import Micomponente from './components/Micomponente';
-
-
+import MiComponente from './components/MiComponente'; 
 
 
 function App() {
@@ -24,9 +23,7 @@ function App() {
         >
           Learn React
         </a>
-        <section className='componentes'>
-        <Micomponente />
-      </section>
+        
       </header>
      
       
