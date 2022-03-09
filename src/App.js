@@ -3,7 +3,7 @@ import logo from './assets/images/logo.svg';
 import './assets/css/App.css';
 
 //importar componentes
-import micomponente from './components/micomponente';
+import Micomponente from './components/Micomponente';
 
 
 
@@ -24,10 +24,14 @@ function App() {
         >
           Learn React
         </a>
-        
+        <section className='componentes'>
+        <Micomponente />
+      </section>
       </header>
+     
+      
     </div>
-    
+
   );
 }
 
