@@ -1,7 +1,7 @@
 //componentes del metodo de trabajo jsx
 import logo from './assets/images/logo.svg';
 import './assets/css/App.css';
-
+import PaginaJuros from './components/PaginaJuros';
 function App() {
   return (
     <div className="App">
@@ -18,6 +18,7 @@ function App() {
         >
           Learn React
         </a>
+        
       </header>
     </div>
   );
